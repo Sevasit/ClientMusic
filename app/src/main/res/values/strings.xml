@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MusicYoungBySevasit</string>
+    <string name="login_logo_description">Login Logo</string>
+    <string name="welcome_image_description">Welcome logo</string>
+</resources>
