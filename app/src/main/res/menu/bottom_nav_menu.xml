@@ -1,0 +1,18 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_home"
+        android:icon="@drawable/baseline_chalet_24"
+        android:title="Home"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/baseline_auto_awesome_24"
+        android:title="Search"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_aboutus"
+        android:icon="@drawable/baseline_account_circle_24"
+        android:title="About Us"
+        app:showAsAction="ifRoom" />
+</menu>

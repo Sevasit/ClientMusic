@@ -60,7 +60,7 @@ public class RegisterActivity extends AppCompatActivity {
                             Toast.makeText(RegisterActivity.this, "Error" + task.getException().getMessage(),
                                     Toast.LENGTH_SHORT).show();
                         } else {
-                            Intent open = new Intent(RegisterActivity.this, MainActivity.class);
+                            Intent open = new Intent(RegisterActivity.this, UpdateProfile.class);
                             startActivity(open);
                             finish();
                         }//ปิด if
